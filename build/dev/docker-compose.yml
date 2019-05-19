@@ -1,0 +1,13 @@
+version: '3'
+services:
+
+  web:
+    build: .
+    environment:
+      - PROFILE=dev
+    ports:
+      - "4200:4200"
+    volumes:
+      - "./../../source:/data"
+      - "./start.sh:/start.sh"
+    command: /start.sh
