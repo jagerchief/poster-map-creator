@@ -34,11 +34,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+            <state relative-caret-position="345">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -58,17 +58,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="105">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="128" selection-start-line="6" selection-start-column="128" selection-end-line="6" selection-end-column="128" />
+              <caret line="6" column="153" selection-start-line="6" selection-start-column="153" selection-end-line="6" selection-end-column="153" />
             </state>
           </provider>
         </entry>
@@ -88,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="21" column="64" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="64" />
+            <state relative-caret-position="556">
+              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -131,12 +131,12 @@
         <option value="$PROJECT_DIR$/build/dev/start.sh" />
         <option value="$PROJECT_DIR$/source/poster-app/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/source/poster-app/src/styles.css" />
-        <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.ts" />
-        <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.html" />
         <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.scss" />
         <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.scss" />
-        <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.html" />
         <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.ts" />
+        <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.html" />
+        <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.ts" />
+        <option value="$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.html" />
       </list>
     </option>
   </component>
@@ -290,12 +290,12 @@
       <updated>1558281471817</updated>
       <workItem from="1558281473042" duration="5615000" />
       <workItem from="1558422229042" duration="1331000" />
-      <workItem from="1558548283259" duration="10570000" />
+      <workItem from="1558548283259" duration="11378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17516000" />
+    <option name="totallyTimeSpent" value="18324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -423,13 +423,6 @@
     <entry file="file://$PROJECT_DIR$/source/poster-app/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -450,17 +443,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/generator/generator.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" column="64" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="64" />
+        <state relative-caret-position="556">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
@@ -470,17 +480,7 @@
     <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="128" selection-start-line="6" selection-start-column="128" selection-end-line="6" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
+          <caret line="6" column="153" selection-start-line="6" selection-start-column="153" selection-end-line="6" selection-end-column="153" />
         </state>
       </provider>
     </entry>
