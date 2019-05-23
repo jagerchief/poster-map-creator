@@ -10,7 +10,7 @@ then
 
     npm install
     npm rebuild node-sass --force
-    cd /data/poster-appz
+    cd /data/poster-app
     ng serve --host 0.0.0.0 --disable-host-check
 fi
 
