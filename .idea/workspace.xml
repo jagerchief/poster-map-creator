@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="713b1166-32f3-4361-9bc6-5337beb03870" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/dev/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build/dev/start.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/poster-app" beforeDir="false" afterPath="$PROJECT_DIR$/source/poster-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/poster-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/poster-app/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/poster-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/poster-app/package-lock.json" afterDir="false" />
@@ -39,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="450">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -292,12 +290,12 @@
       <updated>1558281471817</updated>
       <workItem from="1558281473042" duration="5615000" />
       <workItem from="1558422229042" duration="1331000" />
-      <workItem from="1558548283259" duration="10265000" />
+      <workItem from="1558548283259" duration="10570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17211000" />
+    <option name="totallyTimeSpent" value="17516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -478,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/poster-app/src/app/containers/download/download.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="450">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
