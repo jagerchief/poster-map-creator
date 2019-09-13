@@ -8,6 +8,6 @@ services:
     ports:
       - "4300:4200"
     volumes:
-      - "./../../source:/data"
+      - "./../../code:/data"
       - "./start.sh:/start.sh"
     command: /start.sh
